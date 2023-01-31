@@ -1,0 +1,16 @@
+.App {
+  @apply w-screen;
+}
+.focus-text {
+  background: linear-gradient(135deg, #69f, #f36);
+  color: transparent;
+  background-clip: text;
+}
+.start-button {
+  @apply flex px-3 text-3xl lg:text-base  py-4 lg:py-2  mx-auto mt-12 rounded-[2rem];
+  background: linear-gradient(135deg, #69f, #f36);
+}
+.start-button:hover img {
+  @apply transition-all duration-300;
+  transform: translateX(10px);
+}
