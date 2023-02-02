@@ -7,7 +7,7 @@ const Hero = () => {
         Heads of Product hire us to do continuous user discovery, so they can
         <span className="focus-text"> focus on all the other fires.</span>
       </h1>
-      <h4 className="text-[#999999] text-center mt-10 font-semibold px-14">
+      <h4 className="text-gray1 text-center mt-10 font-semibold px-14">
         Partner with us. Give your product team superpowers. Start tomorrow and
         stop whenever.
       </h4>
